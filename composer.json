@@ -1,0 +1,32 @@
+{
+	"name" : "Blondak/DataResponse",
+	"type" : "library",
+	"description" : "Data response for Nette with dynamic datasource",
+	"keywords" : [
+		"csv",
+		"nette",
+		"response",
+		"xlsx"
+	],
+	"license" : [
+		"BSD-3-Clause",
+		"GPL-2.0",
+		"GPL-3.0"
+	],
+	"authors" : [{
+			"name" : "Blonďák",
+			"email" : "blondak@neser.cz"
+		}
+	],
+	"require" : {
+		"php" : "^5.6",
+		"nette/application" : "^2.4",
+		"nette/http" : "^2.4",
+		"mk-j/php_xlsxwriter" : "~0.37"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Blondak\\DataResponse\\" : "src"
+		}
+	}
+}
