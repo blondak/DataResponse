@@ -1,5 +1,5 @@
-# CsvResponse2
-CSV response for [Nette Framework](https://github.com/nette/nette)
+# DataResponse
+XLSX,CSV response for [Nette Framework](https://github.com/nette/nette)
 
 * gzip encoding
 * dynamic datasource

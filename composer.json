@@ -1,5 +1,5 @@
 {
-	"name" : "Blondak/DataResponse",
+	"name" : "blondak/dataresponse",
 	"type" : "library",
 	"description" : "Data response for Nette with dynamic datasource",
 	"keywords" : [
