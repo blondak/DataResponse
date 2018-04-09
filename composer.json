@@ -19,7 +19,7 @@
 		}
 	],
 	"require" : {
-		"php" : "^5.6",
+		"php" : ">=5.6",
 		"nette/application" : "^2.4",
 		"nette/http" : "^2.4",
 		"mk-j/php_xlsxwriter" : "~0.37"
